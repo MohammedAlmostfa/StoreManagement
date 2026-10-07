@@ -11,6 +11,7 @@ C:\project\2\Asp net\StoreManagement\src\StoreManagement.Infrastructure\obj\Debu
 C:\project\2\Asp net\StoreManagement\src\StoreManagement.Infrastructure\obj\Debug\net10.0\StoreManagement.Infrastructure.AssemblyInfoInputs.cache
 C:\project\2\Asp net\StoreManagement\src\StoreManagement.Infrastructure\obj\Debug\net10.0\StoreManagement.Infrastructure.AssemblyInfo.cs
 C:\project\2\Asp net\StoreManagement\src\StoreManagement.Infrastructure\obj\Debug\net10.0\StoreManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Infrastructure\obj\Debug\net10.0\StoreManagement.Infrastructure.sourcelink.json
 C:\project\2\Asp net\StoreManagement\src\StoreManagement.Infrastructure\obj\Debug\net10.0\StoreMan.78655C4E.Up2Date
 C:\project\2\Asp net\StoreManagement\src\StoreManagement.Infrastructure\obj\Debug\net10.0\StoreManagement.Infrastructure.dll
 C:\project\2\Asp net\StoreManagement\src\StoreManagement.Infrastructure\obj\Debug\net10.0\refint\StoreManagement.Infrastructure.dll

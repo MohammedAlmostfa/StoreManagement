@@ -1,5 +1,8 @@
 namespace StoreManagement.Domain.Enums;
 
+/// <summary>
+/// Represents the lifecycle status of a purchase order.
+/// </summary>
 public enum PurchaseStatus
 {
     Draft = 1,
