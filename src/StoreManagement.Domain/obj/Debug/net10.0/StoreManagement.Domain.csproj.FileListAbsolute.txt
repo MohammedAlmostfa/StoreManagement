@@ -1,0 +1,11 @@
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Domain\bin\Debug\net10.0\StoreManagement.Domain.deps.json
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Domain\bin\Debug\net10.0\StoreManagement.Domain.dll
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Domain\bin\Debug\net10.0\StoreManagement.Domain.pdb
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Domain\obj\Debug\net10.0\StoreManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Domain\obj\Debug\net10.0\StoreManagement.Domain.AssemblyInfoInputs.cache
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Domain\obj\Debug\net10.0\StoreManagement.Domain.AssemblyInfo.cs
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Domain\obj\Debug\net10.0\StoreManagement.Domain.csproj.CoreCompileInputs.cache
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Domain\obj\Debug\net10.0\StoreManagement.Domain.dll
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Domain\obj\Debug\net10.0\refint\StoreManagement.Domain.dll
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Domain\obj\Debug\net10.0\StoreManagement.Domain.pdb
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Domain\obj\Debug\net10.0\ref\StoreManagement.Domain.dll

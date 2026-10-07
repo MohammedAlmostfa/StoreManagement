@@ -1,0 +1,8 @@
+namespace StoreManagement.Domain.Enums;
+
+public enum PurchaseStatus
+{
+    Draft = 1,
+    Confirmed = 2,
+    Cancelled = 3
+}

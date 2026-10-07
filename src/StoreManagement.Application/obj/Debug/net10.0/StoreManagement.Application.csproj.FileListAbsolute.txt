@@ -1,0 +1,15 @@
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Application\bin\Debug\net10.0\StoreManagement.Application.deps.json
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Application\bin\Debug\net10.0\StoreManagement.Application.dll
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Application\bin\Debug\net10.0\StoreManagement.Application.pdb
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Application\bin\Debug\net10.0\StoreManagement.Domain.dll
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Application\bin\Debug\net10.0\StoreManagement.Domain.pdb
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Application\obj\Debug\net10.0\StoreManagement.Application.csproj.AssemblyReference.cache
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Application\obj\Debug\net10.0\StoreManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Application\obj\Debug\net10.0\StoreManagement.Application.AssemblyInfoInputs.cache
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Application\obj\Debug\net10.0\StoreManagement.Application.AssemblyInfo.cs
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Application\obj\Debug\net10.0\StoreManagement.Application.csproj.CoreCompileInputs.cache
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Application\obj\Debug\net10.0\StoreMan.B164B278.Up2Date
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Application\obj\Debug\net10.0\StoreManagement.Application.dll
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Application\obj\Debug\net10.0\refint\StoreManagement.Application.dll
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Application\obj\Debug\net10.0\StoreManagement.Application.pdb
+C:\project\2\Asp net\StoreManagement\src\StoreManagement.Application\obj\Debug\net10.0\ref\StoreManagement.Application.dll

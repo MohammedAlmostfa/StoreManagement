@@ -1,0 +1,35 @@
+Product
+│
+├── Entity
+│   ├── Constructor
+│   └── Update()
+│
+├── EF Configuration
+│   ├── Required
+│   ├── MaxLength
+│   ├── Precision
+│   ├── Unique SKU
+│   ├── Unique Barcode
+│   └── Foreign Key Category
+│
+├── Repository
+│   ├── GetById
+│   ├── GetAll
+│   ├── Add
+│   ├── Update
+│   ├── Delete
+│   ├── ExistsBySku
+│   └── ExistsByBarcode
+│
+├── DTOs
+│
+├── Service
+│   ├── Create
+│   ├── GetById
+│   ├── GetAll
+│   ├── Update
+│   └── Delete
+│
+├── UnitOfWork
+│
+└── Controller

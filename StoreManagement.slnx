@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/StoreManagement.Api/StoreManagement.Api.csproj" />
+    <Project Path="src/StoreManagement.Application/StoreManagement.Application.csproj" />
+    <Project Path="src/StoreManagement.Domain/StoreManagement.Domain.csproj" />
+    <Project Path="src/StoreManagement.Infrastructure/StoreManagement.Infrastructure.csproj" />
+  </Folder>
+</Solution>
