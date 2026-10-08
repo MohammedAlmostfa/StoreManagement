@@ -1,12 +1,8 @@
-namespace StoreManagement.Domain.Entities;
-
 public class Stock
 {
     public Guid Id { get; private set; }
 
     public Guid ProductId { get; private set; }
-
-    public Guid WarehouseId { get; private set; }
 
     public decimal Quantity { get; private set; }
 
@@ -14,13 +10,10 @@ public class Stock
     {
     }
 
-    public Stock(
-        Guid productId,
-        Guid warehouseId)
+    public Stock(Guid productId)
     {
         Id = Guid.NewGuid();
         ProductId = productId;
-        WarehouseId = warehouseId;
         Quantity = 0;
     }
 

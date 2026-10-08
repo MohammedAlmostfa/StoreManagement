@@ -31,4 +31,32 @@ public class Supplier
         Address = address;
         IsActive = true;
     }
+
+    public void Update(
+    string name,
+    string? phone = null,
+    string? email = null,
+    string? address = null)
+{
+    if (string.IsNullOrWhiteSpace(name))
+    {
+        throw new ArgumentException(
+            "Supplier name is required.");
+    }
+
+    Name = name;
+    Phone = phone;
+    Email = email;
+    Address = address;
+}
+
+public void Deactivate()
+{
+    IsActive = false;
+}
+
+public void Activate()
+{
+    IsActive = true;
+}
 }

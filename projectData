@@ -33,3 +33,36 @@ Product
 ├── UnitOfWork
 │
 └── Controller
+
+
+Supplier
+│
+├── Entity
+│   ├── Create
+│   ├── Update
+│   ├── Activate
+│   └── Deactivate
+│
+├── DTOs
+│   ├── Create
+│   ├── Update
+│   └── Response
+│
+├── Repository
+│   ├── GetById
+│   ├── GetAll
+│   ├── Add
+│   ├── Update
+│   └── Delete
+│
+├── Service
+│   ├── Create
+│   ├── GetById
+│   ├── GetAll
+│   ├── Update
+│   ├── Delete
+│   ├── Activate
+│   └── Deactivate
+│
+├── Controller
+└── EF Configuration

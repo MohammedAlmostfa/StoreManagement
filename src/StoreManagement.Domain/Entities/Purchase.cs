@@ -14,6 +14,11 @@ public class Purchase
 
     public decimal TotalAmount { get; private set; }
 
+    private readonly List<PurchaseItem> _items = new();
+
+    public IReadOnlyCollection<PurchaseItem> Items =>
+        _items.AsReadOnly();
+
     private Purchase()
     {
     }
@@ -25,6 +30,33 @@ public class Purchase
         Status = PurchaseStatus.Draft;
         PurchaseDate = DateTime.UtcNow;
         TotalAmount = 0;
+    }
+
+    public void AddItem(
+        Guid productId,
+        decimal quantity,
+        decimal unitPrice)
+    {
+        if (Status != PurchaseStatus.Draft)
+        {
+            throw new InvalidOperationException(
+                "Items can only be added to draft purchases.");
+        }
+
+        var item = new PurchaseItem(
+            Id,
+            productId,
+            quantity,
+            unitPrice);
+
+        _items.Add(item);
+
+        RecalculateTotal();
+    }
+
+    private void RecalculateTotal()
+    {
+        TotalAmount = _items.Sum(x => x.Total);
     }
 
     public void Confirm()
